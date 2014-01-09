@@ -34,7 +34,6 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libmmipl.so:/system/lib/libmmipl.so \
     vendor/htc/vision/proprietary/libmmjpeg.so:/system/lib/libmmjpeg.so \
     vendor/htc/vision/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
-    vendor/htc/vision/proprietary/camera.default.so:/system/lib/hw/camera.default.so \
     vendor/htc/vision/proprietary/libOlaEngine.so:/system/lib/libOlaEngine.so \
     vendor/htc/vision/proprietary/libcameraface.so:/system/lib/libcameraface.so \
     vendor/htc/vision/proprietary/libcamerapp.so:/system/lib/libcamerapp.so \
@@ -47,7 +46,5 @@ PRODUCT_COPY_FILES += \
     vendor/htc/vision/proprietary/libv8.so:/system/lib/libv8.so \
     vendor/htc/vision/proprietary/libv8.so:obj/lib/libv8.so \
     vendor/htc/vision/proprietary/libpatts_engine_jni_api.so:/system/lib/libpatts_engine_jni_api.so \
-    vendor/htc/vision/proprietary/libttscompat.so:/system/lib/libttscompat.so \
-    vendor/htc/vision/proprietary/libposteffect.so:/system/lib/libposteffect.so \
-    vendor/htc/vision/proprietary/libjni_latinime.so:obj/lib/libjni_latinime.so \
-    vendor/htc/vision/proprietary/libjni_latinime.so:system/lib/libjni_latinime.so
+    vendor/htc/vision/proprietary/libposteffect.so:/system/lib/libposteffect.so
+
